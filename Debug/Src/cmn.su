@@ -1,0 +1,5 @@
+../Src/cmn.c:11:6:delayms	24	static
+../Src/cmn.c:21:6:SetInput	16	static
+../Src/cmn.c:30:6:SetPullup	16	static
+../Src/cmn.c:36:9:GetStatus	16	static
+../Src/cmn.c:41:6:SetAltFunc	24	static
